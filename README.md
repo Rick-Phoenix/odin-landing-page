@@ -1,0 +1,4 @@
+In this project I really found out how tricky CSS can be. I have spent literally 6-8 hours trying to fix an image that wouldn't fit its container. It took me that long to realize that vertical containers can have their own content overflowing if you don't set a max-height value to them. 
+I experimented a lot with height and width values in general, which clarified a lot of doubts about thise particularly capricious CSS properties. 
+This project really helped me grow my confidence with CSS and getting a better understanding of how flex element interact with one another.
+Very happy with the result and looking forward to making more of these!
